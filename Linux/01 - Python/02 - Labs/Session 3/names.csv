@@ -1,0 +1,3 @@
+UART,Async,PeerToPeer
+SPI,Sync,SingleMasterMultiSlave
+I2C,Sync,SingleMasters 
